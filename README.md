@@ -275,7 +275,7 @@ Use `Serverline.getCollection().stdout.write('msg\n')` can be usefull if you don
 
    - Returns: The [readline instance](https://nodejs.org/api/readline.html#readline_readline)
 
-We recommand to use `Serverline.<function>()` function instead `Serverline.getRL().<function>()`.
+We recommend to use `Serverline.<function>()` function instead `Serverline.getRL().<function>()`.
 
 
 ### Serverline.close()

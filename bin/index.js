@@ -177,6 +177,7 @@ function init(options) {
     }
     fixSIGINTonQuestion = false
   })
+  return this
 }
 
 function secret(query, callback) {
